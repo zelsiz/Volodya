@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776A0;
+    padding: 10px;
+}
+
+footer {
+    background-color: #024C68;
+}
+
+h2 {
+    color: #FF2C00;
+    margin-left: 20px;
+}
+
+h2 img {
+    height: 30px;
+    width: 30px;
+}
+
+ul {
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+}
+
+li {
+    margin-left: 30px;
+}
+
+.BDSM {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+header img {
+    margin-bottom: -7px;
+}
+
+header a {
+    background-color: #FFB600;
+    padding: 3px;
+    margin-left: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+}
+
+.NC {
+    height: 170px;
+    width: 160px;
+    margin: 3px;
+}
+
+.AU {
+    height: 170px;
+    width: 120px;
+    margin: 3px;
+}
+
+.PG {
+    height: 170px;
+    width: 300px;
+    margin: 3px;
+}
+
+footer {
+    padding: 10px;
+}
+
+footer p {
+    margin-left: 20px;
+    color: white;
+}
+
+h2 img {
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+}
